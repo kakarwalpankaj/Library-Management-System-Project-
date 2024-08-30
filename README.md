@@ -14,4 +14,4 @@ Open the directory
 
 `./a.out`
 
-**default admin password is "admin_pass"
+**default admin password is "admin_pass"**
